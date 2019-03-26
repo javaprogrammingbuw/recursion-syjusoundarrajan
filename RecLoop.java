@@ -9,6 +9,8 @@ public class RecLoop{
 	//The second method powIterative computes the the base to the power of n in a iterative way.
 	//Add another method powRek which does exactly the same, but by using recursion.
 
+	//Not implemented
+
 	 public static int euclidRec(int a, int b) {
 		if (a == b) {
 			return a;
